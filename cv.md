@@ -28,6 +28,8 @@ I am 16 years old. I'm studying in Poland in the direction of "Programmer Techni
 - JavaScript (basics)
 - Git, GitHub (basics)
 - MySQL
+- Python(basics)
+- PHP(basics)
 - Adobe Photoshop, Figma
 - VS Code
 
